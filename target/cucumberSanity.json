@@ -1,0 +1,300 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Access Email Contents",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3965867100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Login Page",
+            "match": {
+              "location": "LoginPageDef.user_is_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5886255400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enters username and password",
+            "match": {
+              "location": "LoginPageDef.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 11044906100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click the login button",
+            "match": {
+              "location": "LoginPageDef.user_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2192099500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User are successfully logged in the New-UI app",
+            "match": {
+              "location": "LoginPageDef.user_are_successfully_logged_in_the_New_UI_app()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7552594400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Helper.InitialSetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Verify the dashboard",
+        "description": "",
+        "id": "dashboard-test;verify-the-dashboard",
+        "after": [
+          {
+            "result": {
+              "duration": 880932000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Helper.closeSetup(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 21953215200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User clicks on \"Dashboard\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dashboard",
+                  "offset": 16
+                }
+              ],
+              "location": "AddNewUserDef.user_clicks_on(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 270063000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User verify the dashboard",
+            "match": {
+              "location": "DashboardTest.user_verify_the_dashboard(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Email Space Usage"
+                ],
+                "line": 13
+              },
+              {
+                "cells": [
+                  "System Status"
+                ],
+                "line": 14
+              },
+              {
+                "cells": [
+                  "Remote Backup"
+                ],
+                "line": 15
+              },
+              {
+                "cells": [
+                  "Warm Standby"
+                ],
+                "line": 16
+              },
+              {
+                "cells": [
+                  "Network Information"
+                ],
+                "line": 17
+              },
+              {
+                "cells": [
+                  "Software Contract"
+                ],
+                "line": 18
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 9,
+            "name": "@Dashboard"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "Access Email Contents",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3805732100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Login Page",
+            "match": {
+              "location": "LoginPageDef.user_is_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5339246700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enters username and password",
+            "match": {
+              "location": "LoginPageDef.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7966874800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click the login button",
+            "match": {
+              "location": "LoginPageDef.user_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2151218100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User are successfully logged in the New-UI app",
+            "match": {
+              "location": "LoginPageDef.user_are_successfully_logged_in_the_New_UI_app()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4025043600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Helper.InitialSetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Verify the Logout functionality",
+        "description": "",
+        "id": "dashboard-test;verify-the-logout-functionality",
+        "after": [
+          {
+            "result": {
+              "duration": 918768800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Helper.closeSetup(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2783429300,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User click on Logout",
+            "match": {
+              "location": "DashboardTest.user_click_on_Logout()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 89372600,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User Login page should be load",
+            "match": {
+              "location": "DashboardTest.user_Login_page_should_be_load()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 20,
+            "name": "@Dashboard"
+          }
+        ]
+      }
+    ],
+    "name": "Dashboard Test",
+    "description": "",
+    "id": "dashboard-test",
+    "keyword": "Feature",
+    "uri": "DasboardTest.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@DashboardFeature"
+      }
+    ]
+  }
+]

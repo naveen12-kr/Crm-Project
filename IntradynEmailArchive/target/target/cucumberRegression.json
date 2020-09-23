@@ -1,0 +1,197 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Access Email Contents",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 790858082,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Login Page",
+            "match": {
+              "location": "LoginPageDef.user_is_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8256324341,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User enters username and password",
+            "match": {
+              "location": "LoginPageDef.user_enters_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3689846782,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click the login button",
+            "match": {
+              "location": "LoginPageDef.user_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9316929802,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User are successfully logged in the New-UI app",
+            "match": {
+              "location": "LoginPageDef.user_are_successfully_logged_in_the_New_UI_app()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4213967305,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Helper.InitialSetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 59,
+        "name": "Remove Label email",
+        "description": "",
+        "id": "access-emailcontent;remove-label-email",
+        "after": [
+          {
+            "result": {
+              "duration": 1397736715,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Helper.closeSetup(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7502766240,
+              "status": "passed"
+            },
+            "line": 60,
+            "name": "User clicks on \"Email Viewing\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Email Viewing",
+                  "offset": 16
+                }
+              ],
+              "location": "AddNewUserDef.user_clicks_on(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2116918878,
+              "status": "passed"
+            },
+            "line": 61,
+            "name": "User select search by \"before\" date",
+            "match": {
+              "arguments": [
+                {
+                  "val": "before",
+                  "offset": 23
+                }
+              ],
+              "location": "UserInfoEditing.user_select_search_by_date(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3092356834,
+              "status": "passed"
+            },
+            "line": 62,
+            "name": "User click on search",
+            "match": {
+              "location": "UserInfoEditing.user_click_on_search()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5114343798,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "Select any number of Emails",
+            "match": {
+              "location": "AccessEmailContent.select_any_number_of_Emails()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6142263526,
+              "status": "passed"
+            },
+            "line": 64,
+            "name": "Click on Label option",
+            "match": {
+              "location": "AccessEmailContent.click_on_Label_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 67266944,
+              "status": "passed"
+            },
+            "line": 65,
+            "name": "\"Remove Labels\" popup is displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Remove Labels",
+                  "offset": 1
+                }
+              ],
+              "location": "AccessEmailContent.remove_Tag_popup_is_displayed(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 58,
+            "name": "@EmailContent"
+          }
+        ]
+      }
+    ],
+    "name": "Access EmailContent",
+    "description": "",
+    "id": "access-emailcontent",
+    "keyword": "Feature",
+    "uri": "AccessEmailContent.feature"
+  }
+]

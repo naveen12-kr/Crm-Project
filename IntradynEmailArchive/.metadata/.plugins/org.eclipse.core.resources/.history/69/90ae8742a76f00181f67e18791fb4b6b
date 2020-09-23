@@ -1,0 +1,6 @@
+intradyn_url=http://10.100.1.116
+
+users = Copyofusers
+username=admin
+password=ChangeMe
+version=Intradyn 6.2

@@ -1,0 +1,64 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5219949743,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Helper.InitialSetUp(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Open URL",
+        "description": "",
+        "id": "teletext-holidays;open-url",
+        "after": [
+          {
+            "result": {
+              "duration": 124691650,
+              "error_message": "java.lang.NoClassDefFoundError: org/w3c/dom/ls/DocumentLS\r\n\tat java.base/java.lang.ClassLoader.defineClass1(Native Method)\r\n\tat java.base/java.lang.ClassLoader.defineClass(Unknown Source)\r\n\tat java.base/java.security.SecureClassLoader.defineClass(Unknown Source)\r\n\tat java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(Unknown Source)\r\n\tat java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(Unknown Source)\r\n\tat java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(Unknown Source)\r\n\tat java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)\r\n\tat java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)\r\n\tat java.base/java.lang.ClassLoader.loadClass(Unknown Source)\r\n\tat org.apache.xerces.jaxp.DocumentBuilderImpl.\u003cinit\u003e(Unknown Source)\r\n\tat org.apache.xerces.jaxp.DocumentBuilderFactoryImpl.newDocumentBuilder(Unknown Source)\r\n\tat org.apache.poi.util.DocumentHelper.newDocumentBuilder(DocumentHelper.java:87)\r\n\tat org.apache.poi.util.DocumentHelper.\u003cclinit\u003e(DocumentHelper.java:154)\r\n\tat org.apache.poi.openxml4j.opc.internal.ContentTypeManager.parseContentTypesFile(ContentTypeManager.java:374)\r\n\tat org.apache.poi.openxml4j.opc.internal.ContentTypeManager.\u003cinit\u003e(ContentTypeManager.java:100)\r\n\tat org.apache.poi.openxml4j.opc.internal.ZipContentTypeManager.\u003cinit\u003e(ZipContentTypeManager.java:54)\r\n\tat org.apache.poi.openxml4j.opc.ZipPackage.getPartsImpl(ZipPackage.java:253)\r\n\tat org.apache.poi.openxml4j.opc.OPCPackage.getParts(OPCPackage.java:756)\r\n\tat org.apache.poi.openxml4j.opc.OPCPackage.open(OPCPackage.java:327)\r\n\tat org.apache.poi.util.PackageHelper.open(PackageHelper.java:37)\r\n\tat org.apache.poi.xssf.usermodel.XSSFWorkbook.\u003cinit\u003e(XSSFWorkbook.java:295)\r\n\tat pages.ExcelOperation.readExcel(ExcelOperation.java:51)\r\n\tat pages.ExcelOperation.\u003cinit\u003e(ExcelOperation.java:37)\r\n\tat com.intradyn.EmailArchive.Helper.closeSetup(Helper.java:36)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.base/java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat com.github.mkolisnyk.cucumber.runner.ExtendedExecutionUnitRunner.run(ExtendedExecutionUnitRunner.java:32)\r\n\tat com.github.mkolisnyk.cucumber.runner.ExtendedFeatureRunner.runChild(ExtendedFeatureRunner.java:99)\r\n\tat com.github.mkolisnyk.cucumber.runner.ExtendedFeatureRunner.runChild(ExtendedFeatureRunner.java:24)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat com.github.mkolisnyk.cucumber.runner.ExtendedCucumber.runChild(ExtendedCucumber.java:107)\r\n\tat com.github.mkolisnyk.cucumber.runner.ExtendedCucumber.runChild(ExtendedCucumber.java:31)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat com.github.mkolisnyk.cucumber.runner.ExtendedCucumber.run(ExtendedCucumber.java:147)\r\n\tat org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)\r\n\tat org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)\r\n\tat org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)\r\nCaused by: java.lang.ClassNotFoundException: org.w3c.dom.ls.DocumentLS\r\n\tat java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)\r\n\tat java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)\r\n\tat java.base/java.lang.ClassLoader.loadClass(Unknown Source)\r\n\t... 61 more\r\n",
+              "status": "failed"
+            },
+            "match": {
+              "location": "Helper.closeSetup(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 249627802,
+              "error_message": "java.lang.NullPointerException\r\n\tat pages.TeletextBasePage.openUrl(TeletextBasePage.java:118)\r\n\tat com.intradyn.EmailArchive.TeletextDef.user_is_on_teletext_holiday_home_page(TeletextDef.java:11)\r\n\tat ✽.Given User is on teletext holiday home page(TeleTextHolidays.feature:6)\r\n",
+              "status": "failed"
+            },
+            "line": 6,
+            "name": "User is on teletext holiday home page",
+            "match": {
+              "location": "TeletextDef.user_is_on_teletext_holiday_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Teletext Holidays",
+    "description": "",
+    "id": "teletext-holidays",
+    "keyword": "Feature",
+    "uri": "TeleTextHolidays.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Tele"
+      }
+    ]
+  }
+]

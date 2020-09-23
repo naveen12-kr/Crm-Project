@@ -1,0 +1,20 @@
+# This text file represents the data to be read from when running the Backup Test suite.
+# This file will contain modifiable settings for the Host Configuration
+#1 Encryp Key
+#2 FileSys
+#3 User (SMB/CIFS Only)
+#4 PW (SMB/CIFS Only)
+#5 Host IP
+#6 Path
+#7 ToArchive (Boolean)
+
+##############
+#SMB Settings#
+##############
+EncryptionKey=1234567890123456789012345
+User=rembkup
+Password=Intradyn1
+Domain=egnhyperv02
+IP=10.100.1.96
+Path=/rembkup2/selenium
+ToArchive=false

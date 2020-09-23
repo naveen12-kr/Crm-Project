@@ -1,0 +1,129 @@
+Received: from mail02.dcmpa.com (66.100.215.104) by PGH-EXCA2.duquesne.net
+ (172.25.0.64) with Microsoft SMTP Server id 8.2.234.1; Mon, 25 Jul 2011
+ 17:03:17 -0400
+Received-SPF: pass (mail02.dcmpa.com: domain baml.com designates 171.159.64.13 as permitted sender)
+Authentication-Results: mail02.dcmpa.com smtp.mail=robert.carr@baml.com; spf=pass
+Authentication-Results: mail02.dcmpa.com x-tls.subject="/C=US/ST=North Carolina/L=Charlotte/O=Bank of America Corporation/OU=EISM/CN=sfmx06.bankofamerica.com"; auth=fail (cipher=AES256-SHA)
+X-AuditID: 4264d768-b7b8cae0000063d5-37-4e2dda1440ca
+Received: from sfdmzmailmx06.bankofamerica.com (sfmx06.bankofamerica.com
+ [171.159.64.13]) (using TLS with cipher AES256-SHA (AES256-SHA/256 bits))
+  (Client CN "sfmx06.bankofamerica.com", Issuer "VeriSign Class 3 Secure Server
+ CA - G2" (not verified)) by mail02.dcmpa.com (mail) with SMTP id
+ A8.B6.25557.41ADD2E4; Mon, 25 Jul 2011 17:03:17 -0400 (EDT)
+Received: from sfdmzmailmx07.bankofamerica.com ([171.182.73.234]) by
+ sfdmzmailmx06.bankofamerica.com (8.13.8/8.13.6) with ESMTP id p6PL3FEk028050;
+  Mon, 25 Jul 2011 21:03:15 GMT
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=bankofamerica.com;
+  s=corp1; t=1311627795;
+  bh=reFYL7T0ja/3GcgCYysvXAON47GlLvIvcDKabQQiadU=;
+  h=Date:From:Subject:Sender:To:Cc:Message-id:MIME-version:
+   Content-type;
+  b=M03g0NdfF3Qcf3XsFmQHPE2n+RGhfkE85f3pZDiN/rykpBhpfAzDmTkhOz3PvPp23
+   S10bt8etvogs1giCzFZ84umjLM9uulQYT3p0wjx3wyFv6+UOiB6vtH6pRUCFfGHN76
+   5mdu0WvY1JbZdaRS24HqJy6kd2VYs/mNS56J8ZOM=
+Received: from memca5mta01.bankofamerica.com (memca5mta01.bankofamerica.com
+ [171.186.104.142]) by sfdmzmailmx07.bankofamerica.com (8.14.3/8.13.6) with
+ ESMTP id p6PL39SP017849; Mon, 25 Jul 2011 21:03:14 GMT
+Date: Mon, 25 Jul 2011 11:04:49 -0400
+Sun-Java-System-SMTP-Warning: Lines longer than SMTP allows found and truncated.
+From: "Carr, Robert - MLC" <robert.carr@baml.com>
+Subject: Trade Recap: PointState Buys Cal12 NiHub Off-Peak
+Sender: <MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@bankofamerica.com>
+To: Brian <brian@pointstate.com>, Bruce <bruce@duquesne.com>, Jeff
+  <jeff@duquesne.com>, Jonathan <jonathan@pointstate.com>,
+  "murph@pointstate.com" <murph@pointstate.com>, Pricing
+  <pricing@duquesne.com>, Robert <robert@duquesne.com>, Will
+  <will@duquesne.com>, Zach <zach@duquesne.com>
+CC: DG NY Commodities HF & Investor Sales
+  <dg.ny_commodities_hf_&_investor_sales@bankofamerica.com>
+Message-ID: <f408ae86-ead6-4e8b-96bb-aa15c5e5e763@journal.report.generator>
+X-MS-Journal-Report:
+X-OriginalArrivalTime: 25 Jul 2011 15:04:49.0422 (UTC) FILETIME=[32E7E2E0:01CC4ADC]
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:5.4.6813,1.0.211,0.0.0000
+ definitions=2011-07-25_06:2011-07-25,2011-07-25,1970-01-01 signatures=0
+X-Brightmail-Tracker: AAAAAgr/XyAYpBYY
+Return-Path: robert.carr@baml.com
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+  boundary="--boundary-LibPST-iamunique-297535603_-_-"
+
+
+----boundary-LibPST-iamunique-297535603_-_-
+Content-Type: text/plain; charset="windows-1252"
+
+Sender: robert.carr@baml.com
+Subject: Trade Recap: PointState Buys Cal12 NiHub Off-Peak
+Message-Id: <6F2C13D3438667408299D3C026F44C6E0BC4193F83@CRPRCHEXC46V2.corp.bankofamerica.com>
+To: brian@pointstate.com
+To: bruce@duquesne.com
+To: jeff@duquesne.com
+To: jonathan@pointstate.com
+To: murph@pointstate.com
+To: pricing@duquesne.com
+To: robert@duquesne.com
+To: will@duquesne.com
+To: zach@duquesne.com
+Cc: robert.carr@baml.com, Expanded: dg.ny_commodities_hf_&_investor_sales@bankofamerica.com
+Cc: benjamin.harper@baml.com, Expanded: dg.ny_commodities_hf_&_investor_sales@bankofamerica.com
+Cc: meghan.s.hasenauer@baml.com, Expanded: dg.ny_commodities_hf_&_investor_sales@bankofamerica.com
+Cc: natalie.reska@baml.com, Expanded: dg.ny_commodities_hf_&_investor_sales@bankofamerica.com
+Cc: matthew.jicha@baml.com, Expanded: dg.ny_commodities_hf_&_investor_sales@bankofamerica.com
+Cc: konstantinos.katsigiannakis@baml.com, Expanded: dg.ny_commodities_hf_&_investor_sales@bankofamerica.com
+Cc: thomas.blair@baml.com, Expanded: dg.ny_commodities_hf_&_investor_sales@bankofamerica.com
+
+------------------------------------------------------------------------------
+This message w/attachments (message) is intended solely for the use of the intended recipient(s) and may contain information that is privileged, confidential or proprietary. If you are not an intended recipient, please notify the sender, and then please delete and destroy all copies and attachments, and be advised that any review or dissemination of, or the taking of any action in reliance on, the information contained in or attached to this message is prohibited. Unless specifically indicated, this message is not an offer to sell or a solicitation of any investment products or other financial product or service, an official confirmation of any transaction, or an official statement of Sender. Subject to applicable law, Sender may intercept, monitor, review and retain e-communications (EC) traveling through its networks/systems and may produce any such EC to regulators, law enforcement, in litigation and as required by law.
+The laws of the country of each sender/recipient may impact the handling of EC, and EC may be archived, supervised and produced in countries other than the country in which you are located. This message cannot be guaranteed to be secure or free of errors or viruses.
+References to "Sender" are references to any subsidiary of Bank of America Corporation. Securities and Insurance Products: * Are Not FDIC Insured * Are Not Bank Guaranteed * May Lose Value * Are Not a Bank Deposit * Are Not a Condition to Any Banking Service or Activity * Are Not Insured by Any Federal Government Agency. Attachments that are part of this EC may have additional important disclosures and disclaimers, which you should read. This message is subject to terms available at the following link: http://www.bankofamerica.com/emaildisclaimer. By messaging with Sender you consent to the foregoing.
+
+
+----boundary-LibPST-iamunique-297535603_-_-
+Content-Type: message/rfc822
+
+>From "robert.carr@baml.com" Mon Jul 25 15:04:47 2011
+Received: from CRPRCHEXC46V2.corp.bankofamerica.com ([fe80::3998:34e2:575d:13ac])
+ by wrcha00021.corp.bankofamerica.com ([fe80::40c7:329f:3843:5893%15]) with mapi; Mon,
+ 25 Jul 2011 11:04:49 -0400
+Date: Mon, 25 Jul 2011 11:04:47 -0400
+From: "Carr, Robert - MLC" <robert.carr@baml.com>
+Subject: Trade Recap: PointState Buys Cal12 NiHub Off-Peak
+To: Brian <brian@pointstate.com>, Bruce <bruce@duquesne.com>, Jeff
+  <jeff@duquesne.com>, Jonathan <jonathan@pointstate.com>,
+  "murph@pointstate.com" <murph@pointstate.com>, Pricing
+  <pricing@duquesne.com>, Robert <robert@duquesne.com>, Will
+  <will@duquesne.com>, Zach <zach@duquesne.com>
+CC: DG NY Commodities HF & Investor Sales
+  <dg.ny_commodities_hf_&_investor_sales@bankofamerica.com>
+Message-ID: <6F2C13D3438667408299D3C026F44C6E0BC4193F83@smtp_mail.bankofamerica.com>
+Content-Language: en-US
+Content-Disposition: inline; filename="winmail.dat"
+Accept-Language: en-US
+Thread-topic: Trade Recap: PointState Buys Cal12 NiHub Off-Peak
+Thread-index: AcxK3DHMk6vV9R0RRweXCBdJ3ls4vw==
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <6F2C13D3438667408299D3C026F44C6E0BC4193F83@CRPRCHEXC46V2.corp.bankofamerica.com>
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+  boundary="--boundary-LibPST-iamunique-805000778_-_-"
+
+
+----boundary-LibPST-iamunique-805000778_-_-
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+        filename*=utf-8''winmail.txt
+
+RklMRSBRVUFSQU5USU5FRA0KDQpNaWNyb3NvZnQgRm9yZWZyb250IFByb3RlY3Rpb24gZm9yIEV4
+Y2hhbmdlIFNlcnZlciByZW1vdmVkIGEgZmlsZSBzaW5jZSBpdCB3YXMgZm91bmQgdG8gYmUgaW5m
+ZWN0ZWQuDQpGaWxlIG5hbWU6ICJ3aW5tYWlsLmRhdCINCk1hbHdhcmUgbmFtZTogIkNvcnJ1cHRl
+ZENvbXByZXNzZWRGaWxlIg==
+
+
+----boundary-LibPST-iamunique-805000778_-_---
+
+
+----boundary-LibPST-iamunique-297535603_-_---
+

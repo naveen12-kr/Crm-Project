@@ -1,0 +1,618 @@
+2018-04-26 16:52:43,349 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-26 16:58:08,062 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-30 12:00:02,166 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-30 12:04:30,273 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-24 16:47:35,597 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-24 17:20:52,219 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-24 17:25:08,900 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-25 17:49:10,069 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-25 17:50:02,917 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.intradyn:IntradynEmailArchive:0.0.1-SNAPSHOT @ E:\Intradyn\pom.xml.
+2018-05-25 17:50:04,673 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:04,910 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:04,915 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:05,060 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:05,066 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:05,071 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:05,076 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:05,102 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:05,110 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:07,778 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IntradynEmailArchive/src/main/java
+2018-05-25 17:50:07,781 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IntradynEmailArchive/src/test/java
+2018-05-25 17:50:07,782 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IntradynEmailArchive/src/test/resources
+2018-05-25 17:50:08,282 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2018-05-25 17:50:15,670 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:15,875 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:15,881 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:16,315 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:16,320 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:16,326 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:16,333 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:16,347 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:16,354 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-25 17:50:17,111 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:50:17,113 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:50:17,116 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:50:17,126 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 17:50:50,228 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:50:50,228 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:50:50,231 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:50:50,235 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-25 17:50:58,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:50:58,563 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:50:58,604 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:50:58,615 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-25 17:51:02,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:51:02,467 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:51:02,469 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:51:02,469 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-25 17:52:53,675 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:52:53,676 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:52:53,692 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:52:53,693 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-25 17:54:48,842 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:54:48,842 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:54:48,844 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:54:48,844 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-25 17:55:25,755 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:55:25,756 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:55:25,778 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:55:25,787 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 17:56:03,165 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:56:03,166 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:56:03,169 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:56:03,172 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 17:56:29,739 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:56:29,739 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:56:29,744 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:56:29,746 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 17:56:58,078 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:56:58,078 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:56:58,082 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:56:58,083 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-25 17:57:13,245 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:57:13,245 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:57:13,274 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:57:13,277 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 17:57:21,870 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:57:21,871 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:57:21,873 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:57:21,875 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 17:58:55,233 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:58:55,233 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 17:58:55,236 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 17:58:55,238 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 18:06:14,870 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 18:06:14,870 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 18:06:14,872 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 18:06:14,875 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-25 18:08:24,143 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 18:08:24,144 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-25 18:08:24,146 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 18:08:24,146 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-28 12:20:55,484 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-28 16:10:47,209 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-28 16:11:24,071 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:24,545 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:24,732 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:25,026 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:25,033 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:25,039 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:25,046 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:25,064 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:25,072 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-28 16:11:26,485 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:11:26,486 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:11:26,490 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:11:26,500 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 16:11:27,671 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:11:27,671 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:11:27,682 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:11:27,686 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-28 16:12:34,395 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:12:34,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:12:34,410 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:12:34,411 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-28 16:12:37,613 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:12:37,613 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:12:37,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:12:37,617 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-28 16:19:34,090 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:19:34,091 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:19:34,105 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:19:34,108 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-28 16:20:38,731 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:20:38,732 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:20:38,736 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:20:38,740 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-28 16:20:44,112 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:20:44,122 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:20:44,177 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:20:44,185 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-28 16:54:39,261 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:54:39,262 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:54:39,265 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:54:39,274 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 16:54:51,407 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:54:51,408 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:54:51,411 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:54:51,414 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 16:56:59,997 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:56:59,998 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:57:00,009 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:57:00,025 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 16:58:57,826 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:58:57,826 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 16:58:57,826 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 16:58:57,826 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-28 17:58:48,247 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 17:58:48,247 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 17:58:48,250 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 17:58:48,253 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 18:01:20,050 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:01:20,051 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 18:01:20,055 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:01:20,058 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 18:11:24,868 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:11:24,868 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 18:11:24,873 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:11:24,875 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 18:12:42,064 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:12:42,065 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 18:12:42,067 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:12:42,069 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-28 18:15:42,495 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:15:42,495 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-28 18:15:42,497 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-28 18:15:42,498 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-29 12:24:28,352 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 12:24:28,352 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-29 12:24:28,372 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 12:24:28,375 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-05-29 12:35:04,335 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 12:35:04,336 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-29 12:35:04,339 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 12:35:04,340 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-29 17:17:11,645 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-29 17:17:55,732 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,101 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,108 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,247 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,253 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,259 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,264 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,279 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:56,284 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-29 17:17:58,037 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:17:58,037 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-29 17:17:58,040 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:17:58,050 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-29 17:18:00,809 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:18:00,810 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-29 17:18:00,825 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:18:00,829 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-29 17:18:09,471 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:18:09,471 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-29 17:18:09,484 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:18:09,485 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-29 17:18:38,057 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:18:38,057 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-29 17:18:38,060 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-29 17:18:38,062 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-29 17:46:17,203 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-30 14:21:02,592 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-30 14:22:03,078 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,423 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,433 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,598 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,614 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,621 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,629 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,646 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:03,654 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-30 14:22:06,326 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:22:06,326 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-30 14:22:06,329 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:22:06,336 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-30 14:22:11,817 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:22:11,817 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-30 14:22:11,831 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:22:11,835 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-30 14:22:24,641 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:22:24,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-30 14:22:24,661 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:22:24,669 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-30 14:23:05,376 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:23:05,376 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-30 14:23:05,379 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-30 14:23:05,380 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-30 14:31:22,525 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-31 19:00:43,653 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-31 19:02:34,188 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,669 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,679 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,940 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,948 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,954 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,960 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,974 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:34,979 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-05-31 19:02:36,826 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 19:02:36,826 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-31 19:02:36,829 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 19:02:36,837 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-05-31 19:02:39,960 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 19:02:39,960 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-31 19:02:39,981 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 19:02:39,987 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-05-31 19:03:10,484 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 19:03:10,485 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-05-31 19:03:10,491 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-31 19:03:10,493 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-01 18:42:03,249 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-01 18:42:53,006 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,429 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,458 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,772 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,816 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,824 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,945 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,980 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:53,988 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-01 18:42:58,931 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-01 18:42:58,931 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-01 18:42:58,935 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-01 18:42:58,958 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-01 18:43:06,819 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-01 18:43:06,819 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-01 18:43:06,826 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-01 18:43:06,830 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-01 18:43:37,138 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-01 18:43:37,138 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-01 18:43:37,142 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-01 18:43:37,143 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-01 18:48:57,534 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-04 12:22:56,342 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-04 19:14:22,661 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-04 19:15:14,287 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:14,775 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:14,788 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:15,015 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:15,025 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:15,035 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:15,044 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:15,072 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:15,081 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-04 19:15:17,608 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:17,608 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-04 19:15:17,611 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:17,622 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-04 19:15:23,089 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:23,089 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-04 19:15:23,093 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:23,097 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-04 19:15:31,882 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:31,883 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-04 19:15:31,888 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:31,889 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-04 19:15:48,003 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:48,004 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-04 19:15:48,006 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-04 19:15:48,007 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-04 19:22:40,420 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-05 19:24:34,908 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-05 19:25:10,009 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,426 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,435 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,614 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,628 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,635 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,643 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,662 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:10,670 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-05 19:25:12,429 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:12,430 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-05 19:25:12,432 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:12,439 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-05 19:25:13,584 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:13,585 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-05 19:25:13,587 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:13,591 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-05 19:25:16,793 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:16,793 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-05 19:25:16,859 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:16,866 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-05 19:25:41,325 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:41,326 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-05 19:25:41,328 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-05 19:25:41,329 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-06 17:25:46,835 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-06 17:26:09,876 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,255 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,262 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,397 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,404 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,410 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,416 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,432 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:10,436 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-06 17:26:12,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:12,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-06 17:26:12,125 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:12,133 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-06 17:26:13,193 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:13,193 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-06 17:26:13,205 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:13,209 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-06 17:26:23,977 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:23,977 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-06 17:26:24,018 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:24,022 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-06 17:26:49,299 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:49,300 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-06 17:26:49,303 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-06 17:26:49,305 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-06 17:57:13,707 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-06 17:59:59,238 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-07 14:41:19,987 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-07 14:42:15,352 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,722 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,738 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,869 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,869 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,869 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,885 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,900 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:15,907 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-07 14:42:17,953 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:17,953 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-07 14:42:17,953 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:17,953 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-07 14:42:19,087 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:19,087 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-07 14:42:19,102 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:19,102 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-07 14:42:36,243 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:36,243 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-07 14:42:36,250 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:36,252 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-07 14:42:49,195 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:49,195 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-07 14:42:49,195 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-07 14:42:49,211 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-11 11:20:00,688 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-06-11 19:10:48,143 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-11 19:11:49,094 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,394 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,394 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,534 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,544 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,544 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,554 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,564 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:49,574 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-11 19:11:51,306 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-11 19:11:51,306 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-11 19:11:51,306 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-11 19:11:51,316 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-11 19:12:07,151 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-11 19:12:07,151 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-11 19:12:07,181 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-11 19:12:07,191 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-12 19:21:28,634 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-12 19:23:36,395 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:36,870 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:36,880 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:37,612 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:37,624 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:37,632 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:37,641 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:37,662 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:37,669 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-12 19:23:40,000 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:23:40,001 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-12 19:23:40,003 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:23:40,017 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-12 19:23:41,079 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:23:41,079 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-12 19:23:41,085 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:23:41,089 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-12 19:23:51,402 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:23:51,402 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-12 19:23:51,436 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:23:51,439 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-12 19:24:29,956 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:24:29,957 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-12 19:24:29,964 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-12 19:24:29,966 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:08:06,260 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-06-13 18:08:40,763 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,216 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,232 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,433 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,447 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,454 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,465 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,491 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:41,500 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-13 18:08:43,614 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:08:43,615 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:08:43,617 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:08:43,625 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-13 18:08:48,291 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:08:48,292 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:08:48,319 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:08:48,323 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:08:59,188 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:08:59,189 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:08:59,194 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:08:59,197 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:12:57,054 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:12:57,054 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:12:57,103 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:12:57,110 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:12:59,918 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:12:59,918 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:12:59,944 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:12:59,959 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:14:32,172 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:14:32,172 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:14:32,174 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:14:32,175 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:14:35,417 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:14:35,418 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:14:35,427 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:14:35,455 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:14:46,424 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:14:46,425 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:14:46,449 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:14:46,451 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-13 18:15:04,542 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:15:04,542 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-13 18:15:04,545 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-13 18:15:04,546 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-14 13:05:13,316 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-14 13:15:11,251 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,428 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,432 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,566 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,571 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,576 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,580 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,591 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:11,596 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 13:15:12,680 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 13:15:12,680 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-14 13:15:12,683 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 13:15:12,692 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-14 13:18:00,265 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 13:18:00,266 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-14 13:18:00,272 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 13:18:00,275 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-14 19:19:46,415 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-14 19:21:07,248 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,541 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,550 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,709 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,717 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,723 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,730 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,749 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:07,757 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-14 19:21:09,540 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:09,540 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-14 19:21:09,543 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:09,553 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-14 19:21:12,150 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:12,150 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-14 19:21:12,166 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:12,170 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-14 19:21:24,633 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:24,633 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-14 19:21:24,640 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:24,642 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-14 19:21:39,793 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:39,794 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-14 19:21:39,797 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-14 19:21:39,803 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-15 12:46:00,086 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-15 12:51:25,528 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,110 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,119 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,297 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,306 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,333 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,347 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,373 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:51:26,382 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:38,611 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-15 12:57:43,105 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,573 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,603 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,735 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,755 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,782 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,816 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,829 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 12:57:43,875 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:29,861 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.intradyn:IntradynEmailArchive:0.0.1-SNAPSHOT @ E:\Intradyn\pom.xml.
+2018-06-15 13:01:30,750 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:30,909 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:30,914 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:31,001 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:31,006 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:31,015 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:31,020 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:31,030 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:31,035 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:01:32,741 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-15 13:01:32,742 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-15 13:01:32,745 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-15 13:01:32,754 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-15 13:27:37,299 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:37,621 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:37,651 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:37,812 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:37,842 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:37,903 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:38,182 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:38,477 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:27:38,497 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:29,337 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.intradyn:IntradynEmailArchive:0.0.1-SNAPSHOT @ E:\Intradyn\pom.xml.
+2018-06-15 13:28:30,728 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:30,945 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:30,950 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:31,060 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:31,060 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:31,060 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:31,076 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:31,076 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:28:31,091 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:29:17,712 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-15 13:29:17,712 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-15 13:29:17,728 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-15 13:29:17,728 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-06-15 13:33:33,129 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-15 13:33:41,881 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,204 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,210 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,332 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,337 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,342 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,347 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,361 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 13:33:42,366 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:28,186 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-15 14:31:37,071 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:37,782 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:37,790 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:38,079 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:38,415 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:38,528 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:38,578 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:38,641 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:31:38,650 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:01,803 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.intradyn:IntradynEmailArchive:0.0.1-SNAPSHOT @ E:\Intradyn\pom.xml.
+2018-06-15 14:33:03,444 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:03,797 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:03,804 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:03,970 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:03,976 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:03,984 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:03,990 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:04,005 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:04,012 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:33:06,481 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-15 14:33:06,482 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Intradyn\src\main\resources
+2018-06-15 14:33:06,485 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-06-15 14:33:06,492 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2018-06-15 14:37:37,381 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-06-15 14:37:45,872 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.7.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,371 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,377 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.1.v20170120 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,536 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,542 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,548 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,554 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,568 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:37:46,574 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-06-15 14:43:32,674 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
